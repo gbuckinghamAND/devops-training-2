@@ -1,0 +1,22 @@
+{
+  "name": "devops1",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "George Buckingham <gbuckingham@andigital.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.6.3",
+    "angular-mocks": "^1.6.3"
+  }
+}
